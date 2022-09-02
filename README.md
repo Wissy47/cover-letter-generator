@@ -8,3 +8,6 @@ Save a cover letter template and enter variable for common changing value like j
 
 Whenever you need to generate a cover letter you just fill those value and enter reciever email. 
 
+## DEMO
+
+http://cover-letter-generator.wisdomighofose.com
